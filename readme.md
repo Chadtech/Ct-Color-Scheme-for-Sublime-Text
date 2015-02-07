@@ -1,0 +1,1 @@
+![alt tag](https://raw.githubusercontent.com/Chadtech/Ct-Color-Scheme-for-Sublime-Text/master/ctColorSchemeInstructions.png)
